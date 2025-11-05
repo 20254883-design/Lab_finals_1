@@ -1,0 +1,96 @@
+
+body {
+    background-color: rgb(216, 216, 216); 
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 2.0;
+  }
+  header {
+    background-color: rgb(167, 207, 207);
+    color: black;
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+  }
+  h2{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: black;
+  }
+
+  nav {
+    text-align: center;
+    background-color: white;
+    padding: 10px 0;
+  }
+  
+  nav a {
+    color: rgb(10, 8, 8);
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color:blue;
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    background-color: white;
+    border: 1px solid rgb(163, 163, 163);
+    margin: 30px 0;
+    margin-bottom: auto;
+    margin-top: 30px 0;
+    padding: 20px;
+    border-radius: 5px;
+    line-height: 1.8;
+  }
+  #home{
+    font-size: 13pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #about{
+    font-size: 13pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+  #projects{
+    font-size: 13pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #contact{
+    font-size: 13pt;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+
+  ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 8px;
+    color: rgb(83, 83, 83)
+  }
+  
+  
+  footer {
+    background-color: #e4dfdf; 
+    text-align: center;
+    padding: 15px 0;
+    font-size: 8pt;
+    color: rgb(100, 99, 99);
+    margin-top: 30px;
+  }
+  
